@@ -37,10 +37,9 @@ header {
 header > h1 {
     color: white;
     font-family: var(--fonte-destaque);
-    font-size: 40px;
+    font-size: 45px;
     padding: 26px;
     text-shadow: 0px 3px 5px rgba(0, 0, 0, 0.61);
-
 }
 
 header > p {
@@ -54,7 +53,6 @@ nav {
     font-weight: bolder;
     text-align: justify;
     background-color: var(--cor4);
-    padding: 8px;
 }
 
 nav > a {
@@ -63,7 +61,7 @@ nav > a {
     color: white;
     border-radius: 5px;
     font-family: var(--fonte-padrao);
-    padding: 10px;
+    padding: 8px;
     transition-duration: 0.5s;
 }
 
